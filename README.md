@@ -1,4 +1,4 @@
-# Porjeto da semana Devsuperior de Java com Spring  React
+# Projeto da semana Devsuperior de Java com Spring  React
 
 ## BACKEND
 API em Java com Spring Boot
